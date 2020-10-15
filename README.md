@@ -1,3 +1,12 @@
+### Initial note
+Basics of React Js
+1) Components
+2) Props
+3) States
+4) Forms
+
+
+=========================================================================================================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
